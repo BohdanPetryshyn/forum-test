@@ -1,0 +1,22 @@
+{
+  "name": "forum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./server.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanPetryshyn/forum-test.git"
+  },
+  "author": "BohdanPetryshyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BohdanPetryshyn/forum-test/issues"
+  },
+  "homepage": "https://github.com/BohdanPetryshyn/forum-test#readme",
+  "dependencies": {
+    "postgraphile": "^4.12.3"
+  }
+}

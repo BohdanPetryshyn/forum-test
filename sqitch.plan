@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=forum
+%uri=https://github.com/BohdanPetryshyn/forum-test
+
+public-schema 2021-07-06T06:49:32Z Bohdan Petryshyn <b.y.petryshyn@gmail.com> # Add schema that will bu publically available through PostGraphile
